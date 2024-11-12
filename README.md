@@ -24,9 +24,5 @@ User-Friendly Interface: Visualizes metrics through an easy-to-navigate dashboar
 
 
 
-Additional Metrics: Track more advanced metrics, like fatigue levels or specific agility drills.
-Machine Learning: Implement predictive analytics to forecast player performance or identify injury risks.
-Mobile Compatibility: Make the dashboard accessible from mobile devices for on-field use.
-Contributors
-Your Name
-Collaborator’s Name
+
+
